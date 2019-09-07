@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/logback"
+    tools:context=".signup">
+
+    <TextView
+        android:id="@+id/suptxtv"
+        android:layout_width="344dp"
+        android:layout_height="76dp"
+        android:fontFamily="@font/script"
+        android:text="SignUp with Us"
+        android:textColor="#161212"
+        android:textSize="45sp"
+        app:layout_constraintBottom_toTopOf="@+id/emailsuped"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.859" />
+
+    <EditText
+        android:id="@+id/emailsuped"
+        android:layout_width="310dp"
+        android:layout_height="50sp"
+        android:background="@drawable/input_field"
+        android:ems="10"
+        android:hint="Email Address"
+        android:inputType="textEmailAddress"
+        android:textColorHint="@color/gray"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.594"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="340dp" />
+
+    <EditText
+        android:id="@+id/paswdsuped"
+        android:layout_width="310dp"
+        android:layout_height="50sp"
+        android:layout_marginTop="28dp"
+        android:background="@drawable/input_field"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:textColorHint="@color/gray"
+        app:layout_constraintTop_toBottomOf="@+id/emailsuped"
+        tools:layout_editor_absoluteX="60dp" />
+
+    <Button
+        android:id="@+id/supbutton"
+        android:layout_width="119dp"
+        android:layout_height="55sp"
+        android:background="@drawable/button"
+        android:fontFamily="@font/script"
+        android:text="Register"
+        android:textAllCaps="false"
+        android:textColor="@color/dot_light_screen4"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/paswdsuped"
+        app:layout_constraintVertical_bias="0.153" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="38dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="60dp"
+        app:layout_constraintBottom_toTopOf="@+id/textView2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.088"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.138"
+        app:srcCompat="@drawable/arrow" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

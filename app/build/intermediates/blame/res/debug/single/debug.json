@@ -1,0 +1,658 @@
+[
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_image1.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-ldpi\\image1.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_wc_screen3.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\layout\\wc_screen3.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_loginmback.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-mdpi\\loginmback.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_arrow.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xhdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_tooltip.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_arrow.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-mdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image4.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-hdpi\\image4.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_input_field.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable\\input_field.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background3.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-hdpi\\background3.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loginmback.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-hdpi\\loginmback.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_background.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-ldpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_background4.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-ldpi\\background4.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\c59716abe8e25cf2a1465d45bed5043c\\core-1.0.1\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_background.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxxhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_image1.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxhdpi\\image1.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\font_mainhead.TTF.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\font\\mainhead.TTF"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_cascading_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout-v26\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image3.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-hdpi\\image3.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_carezoneback.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-hdpi\\carezoneback.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_carezoneback.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-mdpi\\carezoneback.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_loginact.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\layout\\activity_loginact.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_arrow.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxhdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_background3.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-ldpi\\background3.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_iconfinder_target_3131959.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxxhdpi\\iconfinder_target_3131959.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_loginmback.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xhdpi\\loginmback.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\font_textfo.TTF.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\font\\textfo.TTF"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\c59716abe8e25cf2a1465d45bed5043c\\core-1.0.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\c59716abe8e25cf2a1465d45bed5043c\\core-1.0.1\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image2.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-hdpi\\image2.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logback.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xhdpi\\logback.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\c59716abe8e25cf2a1465d45bed5043c\\core-1.0.1\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_screen1logo.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxxhdpi\\screen1logo.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_image3.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxhdpi\\image3.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logback.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-hdpi\\logback.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_carezoneback.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxxhdpi\\carezoneback.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-mdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_image3.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-ldpi\\image3.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background4.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-mdpi\\background4.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_iconfinder_mail_3131962.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxxhdpi\\iconfinder_mail_3131962.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\c59716abe8e25cf2a1465d45bed5043c\\core-1.0.1\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_loginmback.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-ldpi\\loginmback.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logback.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxhdpi\\logback.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_image4.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxxhdpi\\image4.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_carezoneback.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxhdpi\\carezoneback.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_carezoneback.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-ldpi\\carezoneback.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dietplanner.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\layout\\activity_dietplanner.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_wc_screen4.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\layout\\wc_screen4.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\font_aladin.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\font\\aladin.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_background4.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxxhdpi\\background4.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\c59716abe8e25cf2a1465d45bed5043c\\core-1.0.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_image4.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xhdpi\\image4.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\c59716abe8e25cf2a1465d45bed5043c\\core-1.0.1\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_iconfinder_analytic_3131956.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxxhdpi\\iconfinder_analytic_3131956.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\font_script.ttf.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\font\\script.ttf"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background4.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-hdpi\\background4.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_image1.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxxhdpi\\image1.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_wc_screen1.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\layout\\wc_screen1.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_todo.jpg.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxxhdpi\\todo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_background3.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxhdpi\\background3.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_image1.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-mdpi\\image1.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_image1.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xhdpi\\image1.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_background3.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxxhdpi\\background3.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_content_include.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background3.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-mdpi\\background3.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_image4.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-mdpi\\image4.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_image2.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxxhdpi\\image2.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_loginmback.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxhdpi\\loginmback.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_background2.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxhdpi\\background2.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background4.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xhdpi\\background4.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_background2.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxxhdpi\\background2.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_arrow.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxxhdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_image3.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-mdpi\\image3.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_image2.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xhdpi\\image2.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_calander.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\layout\\activity_calander.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_image4.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-ldpi\\image4.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_image4.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxhdpi\\image4.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_medicare.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\layout\\activity_medicare.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_todolist.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\layout\\activity_todolist.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_iconfinder_file_3131963.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxxhdpi\\iconfinder_file_3131963.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\c59716abe8e25cf2a1465d45bed5043c\\core-1.0.1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout-watch-v20\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background3.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xhdpi\\background3.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_image3.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxxhdpi\\image3.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_image3.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xhdpi\\image3.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logback.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-mdpi\\logback.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_background4.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxhdpi\\background4.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_loginmback.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxxhdpi\\loginmback.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_arrow.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-ldpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background2.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-hdpi\\background2.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\c59716abe8e25cf2a1465d45bed5043c\\core-1.0.1\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_background2.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-ldpi\\background2.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_iconfinder_stars_3131960.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxxhdpi\\iconfinder_stars_3131960.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_background.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background2.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xhdpi\\background2.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_wc_screen2.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\layout\\wc_screen2.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_carezoneback.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xhdpi\\carezoneback.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_image2.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-mdpi\\image2.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_logback.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxxhdpi\\logback.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_image2.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-ldpi\\image2.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image1.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-hdpi\\image1.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_image2.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxhdpi\\image2.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background2.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-mdpi\\background2.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\c59716abe8e25cf2a1465d45bed5043c\\core-1.0.1\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_iconfinder_phone_3131961.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-xxxhdpi\\iconfinder_phone_3131961.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_logback.png.flat",
+        "source": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\src\\main\\res\\drawable-ldpi\\logback.png"
+    },
+    {
+        "merged": "C:\\Users\\supun sandaruwan\\AndroidStudioProjects\\CareZOne3\\app\\build\\intermediates\\res\\merged\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\supun sandaruwan\\.gradle\\caches\\transforms-2\\files-2.1\\03150878805b916693ee572d96a46ff0\\appcompat-1.0.2\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    }
+]

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "510513830252",
+    "firebase_url": "https://carezone-124c9.firebaseio.com",
+    "project_id": "carezone-124c9",
+    "storage_bucket": "carezone-124c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510513830252:android:2d76ad08378ccdb2a9bb49",
+        "android_client_info": {
+          "package_name": "com.example.carezone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510513830252-29hbc0eh16d46ttaip66o9e85m1qcj01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK4mmUp3gWIbwR5uig-vOZ1ek5obj3D3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510513830252-29hbc0eh16d46ttaip66o9e85m1qcj01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
